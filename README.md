@@ -1,4 +1,4 @@
-Full Stack Open Course Assignments
+Full Stack Open Course Assignments Part 3
 
 This repository contains the backend and frontend of the phonebook project
 
@@ -9,6 +9,5 @@ Usage:
 - Start the development server: `npm start`
 - Access the application in your web browser at `http://localhost:3001`
 
-The project works via the link: 
-`https://phonebook-backend-5n1r.onrender.com/`
+The project works via the [link](https://phonebook-backend-5n1r.onrender.com/)
 
