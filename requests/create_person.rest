@@ -2,6 +2,16 @@ POST http://localhost:3001/api/persons
 Content-Type: application/json
 
 { 
-  "name": "Mary Poppendieckqq", 
+  "name": "Mafs", 
   "number": "39-23-6423122"
+}
+
+###
+
+PUT http://localhost:3001/api/persons/6699816bff60c9807ecc9183
+Content-Type: application/json
+
+{ 
+  "name": "Ginger Flow", 
+  "number": "543-32-876"
 }
